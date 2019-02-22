@@ -1,6 +1,11 @@
 # GloomHavenShitLuckers
 Gloomhaven save for group ShitLuckers
 
+# Default TTS Save location
+```
+Your PC -> Documents -> My Games -> Tabletop Simulator -> Saves 
+```
+
 # Participants
 Zealtron (Zealtron) - Brute
 
